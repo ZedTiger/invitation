@@ -134,7 +134,7 @@
     box-shadow: 0 1px 6px var(--shadow-color);
     cursor: pointer;
     align-items: center;
-    border-radius: ;
+   
     display: inline;
   }
 
@@ -151,7 +151,7 @@
     box-shadow: 0 1px 6px var(--shadow-color);
     cursor: pointer;
     align-items: center;
-    border-radius: ;
+    
   }
   
   .heart:before, 
