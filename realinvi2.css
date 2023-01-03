@@ -135,6 +135,7 @@
     cursor: pointer;
     align-items: center;
       font-size: 20px;
+      font-style: bold;
 }
    
     display: inline;
